@@ -24,7 +24,7 @@ In practical terms, chemical computation science acts as a predictive and interp
 
 #
 
-![Chem](https://github.com/user-attachments/assets/b4e386cf-5eb1-4f65-a76a-de4dc162d782)
+![Chem](https://github.com/user-attachments/assets/3e2aff30-3032-49e1-a739-a215ad198cbf)
 
 A [chemical computer](https://chatgpt.com/g/g-675e575cbb108191b38fa901403fa782-chemical-computer) is a computational system that uses chemical reactions to process information, rather than relying on traditional electronic components like transistors. At its core, a chemical computer operates by encoding data in the concentration, type, or spatial distribution of chemical species. Logic operations and information processing are performed through carefully orchestrated chemical reactions, such as precipitation, pH changes, redox reactions, or enzymatic pathways. These systems can be either naturally inspired—mimicking biological processes like those in the brain—or artificially engineered to exploit the nonlinear and parallel nature of reaction-diffusion systems. One famous example is the use of the Belousov-Zhabotinsky (BZ) reaction, which exhibits oscillatory and wave-like behavior suitable for logic gate implementation and pattern recognition.
 
