@@ -1,0 +1,69 @@
+Chemical Logic Gates - Plain Text Diagrams
+------------------------------------------
+
+YES Gate (Identity)
+-------------------
+Logic: Y = A
+Input:   A ——→ Output: Y
+Chemistry: Single molecule A triggers a visible or measurable response.
+Example: Fluorescent dye activated by A.
+
+NOT Gate (Inverter)
+-------------------
+Logic: Y = NOT A
+Input:   A ——|——→ Output: Y
+Chemistry: Molecule A inhibits the output (e.g., by consuming an activator).
+Example: A reduces pH, preventing fluorescence of a pH-sensitive dye.
+
+AND Gate
+--------
+Logic: Y = A AND B
+Inputs:  A ——┐
+         B ——┴→ Output: Y
+Chemistry: Both A and B are required to trigger product formation.
+Example: Enzymatic system where A and B are substrates for a reaction that only occurs if both are present.
+
+OR Gate
+-------
+Logic: Y = A OR B
+Inputs:  A ——→┐
+         B ——→┘ Output: Y
+Chemistry: Either A or B alone can trigger the output.
+Example: Two different reactants (A or B) can cause a color change in an indicator.
+
+NAND Gate
+---------
+Logic: Y = NOT (A AND B)
+Inputs:  A ——┐
+         B ——┴→ [AND] ——|——→ Output: Y
+Chemistry: Output is only inhibited if both A and B are present.
+Example: Product formation from A and B triggers inhibitor that blocks signal.
+
+NOR Gate
+--------
+Logic: Y = NOT (A OR B)
+Inputs:  A ——→┐
+         B ——→┘ [OR] ——|——→ Output: Y
+Chemistry: If A or B is present, it prevents output.
+Example: Any input molecule inhibits a reporter reaction.
+
+XOR Gate
+--------
+Logic: Y = (A AND NOT B) OR (NOT A AND B)
+Inputs:  A ——┐       ┌——→ [AND] ——┐
+         B ——┴→[NOT]→┘            │
+              │                  ├──→ [OR] → Output: Y
+         A ——→[NOT]→┐            │
+         B ——┐       └——→ [AND] ——┘
+Chemistry: Output only when exactly one of A or B is present.
+Example: Competitive binding—only one molecule can activate the signal at a time.
+
+XNOR Gate
+---------
+Logic: Y = (A AND B) OR (NOT A AND NOT B)
+Inputs:  A ——┐       ┌——→ [AND] ——┐
+         B ——┘       │            ├──→ [OR] → Output: Y
+         A ——→[NOT]→┐            │
+         B ——→[NOT]→┘——→ [AND] ——┘
+Chemistry: Output when both inputs are the same.
+Example: Symmetric chemical input creates a stable intermediate for output.
