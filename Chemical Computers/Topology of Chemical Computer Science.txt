@@ -1,0 +1,51 @@
+Chemical Computer Science
+├── Molecular Layer
+│   ├── Chemical Reactions
+│   │   ├── Reaction Kinetics
+│   │   ├── Thermodynamics
+│   │   └── Catalysis
+│   ├── Molecular Species
+│   │   ├── DNA / RNA
+│   │   ├── Proteins / Enzymes
+│   │   └── Synthetic Molecules
+│   └── Signal Transduction
+│       ├── Binding Affinities
+│       └── Conformational Changes
+│
+├── Computational Layer
+│   ├── Chemical Reaction Networks (CRNs)
+│   │   ├── Formal Languages
+│   │   ├── Petri Nets
+│   │   └── Mass-Action Models
+│   ├── Logic and Control
+│   │   ├── Boolean Gates via Reactions
+│   │   ├── Feedback Control
+│   │   └── Oscillators & Bistable Switches
+│   └── Information Theory
+│       ├── Encoding Schemes
+│       ├── Error Correction
+│       └── Capacity & Noise Analysis
+│
+├── System Integration Layer
+│   ├── Synthetic Biology Circuits
+│   │   ├── Gene Regulatory Networks
+│   │   └── CRISPR-based Logic
+│   ├── Molecular Robotics
+│   │   ├── DNA Walkers
+│   │   └── Chemotactic Systems
+│   └── Hybrid Systems
+│       ├── Bio-Electronic Interfaces
+│       └── Lab-on-a-Chip Integration
+│
+└── Theoretical & Engineering Layer
+    ├── Computational Models
+    │   ├── Turing Machines with Molecules
+    │   ├── Stochastic Simulation Algorithms
+    │   └── Rule-based Modeling
+    ├── Design Automation
+    │   ├── CAD Tools for Molecular Circuits
+    │   └── Formal Verification
+    └── Applications
+        ├── Smart Drug Delivery
+        ├── Biocomputing for Diagnostics
+        └── Programmable Materials

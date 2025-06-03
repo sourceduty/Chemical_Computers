@@ -1,0 +1,43 @@
+Chemical Logic Gates:
+
+1. AND Gate:
+   - Reaction: A + B → C
+   - Output (C) is produced only when both A and B are present.
+
+2. OR Gate:
+   - Reaction: A → C, B → C
+   - Output (C) is produced when either A or B (or both) are present.
+
+3. NOT Gate (Inverter):
+   - Reaction: A → X (where X inhibits C)
+   - Output (C) is produced when A is absent.
+
+4. NAND Gate:
+   - Reaction: A + B → X (where X inhibits C)
+   - Output (C) is produced unless both A and B are present.
+
+5. NOR Gate:
+   - Reaction: A → X, B → X (where X inhibits C)
+   - Output (C) is produced only when neither A nor B is present.
+
+6. XOR Gate:
+   - Reaction: (A → C, B inhibits C) + (B → C, A inhibits C)
+   - Output (C) is produced when either A or B is present, but not both.
+
+7. XNOR Gate:
+   - Reaction: (A + B → C) + (¬A + ¬B → C)
+   - Output (C) is produced when A and B are either both present or both absent.
+
+8. Buffer (Identity Gate):
+   - Reaction: A → C
+   - Output (C) is identical to input (A).
+
+9. Half Adder (XOR + AND):
+   - Sum: XOR(A, B) → S
+   - Carry: AND(A, B) → C
+
+10. Full Adder (XOR, AND, OR Combination):
+   - Sum: XOR(A, XOR(B, Cin)) → S
+   - Carry: OR(AND(A, B), AND(XOR(A, B), Cin)) → C
+
+Note: Chemical species (A, B, C, X, etc.) represent reactants and products in a reaction network that implements Boolean logic.
