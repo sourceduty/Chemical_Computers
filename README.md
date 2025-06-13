@@ -1,4 +1,4 @@
-![Chemical Code Processing (CCP)](https://github.com/user-attachments/assets/283e1969-70b5-435d-8c97-71ad256be346)
+![Slimed Photochemical Computer](https://github.com/user-attachments/assets/2655627a-5b31-44fa-a301-24c647ebcd1e)
 
 Chemical Code Processing (CCP) is an emerging interdisciplinary field that seeks to harness the intrinsic capabilities of chemical systems for tasks traditionally associated with digital computation and information processing. Unlike conventional computing, which relies on the manipulation of binary code through electronic circuits, CCP uses molecular structures and chemical reactions as the medium for storing, processing, and transmitting information. In this paradigm, molecules serve as codewords, and their interactions—such as binding affinities, redox states, or catalytic activities—function as logical operations or data transformations. By encoding information directly into the structure or behavior of molecules, CCP enables the construction of logic gates, circuits, and memory units using chemical inputs and outputs, paving the way for a new type of computation that is inherently suited to biological and nanoscale environments.
 
@@ -26,7 +26,7 @@ Beyond molecular property prediction, CCP plays a pivotal role in designing and 
 
 #
 
-![Chemical CPU](https://github.com/user-attachments/assets/88614d9f-b9b3-4a91-8448-fa31cd5b247c)
+![Chemical Code Processing (CCP)](https://github.com/user-attachments/assets/283e1969-70b5-435d-8c97-71ad256be346)
 
 A [chemical-based binary CPU](https://chatgpt.com/g/g-67a970d536d48191b023a6435783874c-chemical-cpu) in chemical computers operates using chemical reactions to perform binary computations, analogous to the way electronic CPUs rely on electric signals. In a chemical CPU, the binary states ("0" and "1") are represented by the presence or absence of specific chemical species, their concentration levels, or distinct reaction products. The chemical logic gates, like AND, OR, and NOT, are implemented through carefully designed reaction networks where reactants interact to produce outputs based on Boolean logic. For instance, in a chemical AND gate, two input chemicals must be present simultaneously to trigger the production of an output product. This system leverages autocatalytic reactions, oscillatory chemical systems (e.g., the Belousov-Zhabotinsky reaction), and enzymatic catalysis to facilitate computation without traditional electronic circuits.
 
