@@ -36,15 +36,9 @@ Ultimately, the field of chemical computing is a vivid intersection of chemistry
 
 #
 
-![Chemical Computers](https://github.com/user-attachments/assets/05c2705c-d5ca-44bc-91cb-907f58abd315)
+![Photochemical](https://github.com/user-attachments/assets/98badec2-de52-4dcc-953e-a10cc9705df3)
 
-In the context of chemical computer science, cbits could represent a molecule's electronic configuration at its ground state energy level (n=0). Each electron would be assigned an individual qubit representing whether it occupies that orbital or not: 1 if occupied and 0 if empty. By manipulating these qubits through quantum gates mimicking molecular interactions like bond formation/breaking, the system could simulate chemical reactions on a fundamental level.
-
-For example, consider water (H2O). The cbit configuration would be |ψ⟩ = α|HH⟩ + β|EH⟩ + γ|HE⟩ + δ|EE⟩ where H represents an electron in its highest occupied molecular orbital and E is empty/unoccupied. By applying quantum gates to rotate the coefficients α,β,γ,δ representing different electronic configurations, one could simulate water's vibrational modes or chemical bonding with other molecules like hydrogen ions (H+) which would be represented by additional cbits |ψ⟩ = ... + ε|HH+⟩...
-
-This allows for a new paradigm in computational chemistry where quantum computers can directly manipulate molecular states to study reaction mechanisms and design novel materials at the atomic scale. The power of this approach is that it leverages nature's own "quantum computer" - molecules themselves - as both input data and processing units, potentially enabling unprecedented insights into chemical phenomena through direct simulation rather than classical approximations or empirical models alone.
-
-Cbits are a new quantum unit of information for representing molecular electronic states in computational chemistry, allowing the development of powerful simulators to study complex systems at their fundamental level using principles from both computer science and quantum mechanics applied to molecules themselves as qubits/cbits manipulated by gates mimicking chemical interactions.
+[Photochemical Model](https://chatgpt.com/g/g-684c7ae8554c819195bfe046830fbc78-photochemical-model) specializes in explaining, analyzing, and modeling chemical reactions initiated by light—such as bond breaking, isomerization, electron transfer, and excitation processes. It integrates photochemical theory with computational chemistry tools like TDDFT, ab initio methods, and molecular dynamics to simulate and interpret how molecules behave under irradiation. The model is designed to support applications across fields such as organic synthesis, atmospheric science, solar energy, and biological systems by offering detailed insights into reaction mechanisms, quantum yields, excited-state lifetimes, and spectral properties. It guides users through step-by-step reasoning using structured, multiple-choice questioning to enhance understanding of complex photochemical phenomena.
 
 #
 
