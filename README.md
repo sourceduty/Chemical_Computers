@@ -53,3 +53,5 @@ Underlying these computations are gene regulatory networks (GRNs), where transcr
 [Chemical Logic](https://chatgpt.com/g/g-67a91404516881918732290770e57f19-chemical-logic)
 <br>
 [Automated Chemical](https://chatgpt.com/g/g-6774802ac8ac8191bb96be9e8b60b347-automated-chemical)
+<br>
+[Chemtronics](https://github.com/sourceduty/Chemtronics)
